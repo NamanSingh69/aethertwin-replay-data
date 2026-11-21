@@ -1,0 +1,60 @@
+{
+  "protocol_version": 2,
+  "label": "Recorded replay - not live",
+  "identity": {
+    "lab_id": "lab-default",
+    "rig_id": "rig-01",
+    "map_revision": "9b7ba2f6af958ec02e24aed4",
+    "calibration_id": "none"
+  },
+  "source_mode": "replay",
+  "hardware_status": "not_tested",
+  "hardware_verified": false,
+  "map_revision": "9b7ba2f6af958ec02e24aed4",
+  "map_manifest_url": "assets/9b7ba2f6af958ec02e24aed4/manifest.json",
+  "appearance_url": null,
+  "stream_url": null,
+  "showcase_index": "index.json",
+  "role": "viewer",
+  "auth": "unavailable",
+  "controls": "read_only",
+  "control_revision": 0,
+  "capabilities": {
+    "pause": false,
+    "resume": false,
+    "seek": false,
+    "select_source": false,
+    "set_geofences": false,
+    "set_start_goal": false,
+    "step": false
+  },
+  "latest": null,
+  "paused": false,
+  "completed": false,
+  "error": null,
+  "source_active": true,
+  "recording_id": "showcase",
+  "available_sources": [
+    {
+      "id": "showcase",
+      "source": "replay",
+      "recording_id": "showcase",
+      "label": "Recorded replay - not live"
+    }
+  ],
+  "replay": {
+    "frame_count": 360,
+    "current_frame": 0,
+    "duration": 29.97486783338536
+  },
+  "session_id": "showcase",
+  "halo": null,
+  "source": {
+    "recording": "self_mask_parked",
+    "commit": "5d99e37",
+    "calibration": "none",
+    "lidar_height": "measured",
+    "hardware_verified": false,
+    "note": "recorded real sensor data processed offline by the AetherTwin pipeline"
+  }
+}

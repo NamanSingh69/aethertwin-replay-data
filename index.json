@@ -1,0 +1,84 @@
+{
+  "format": "aethertwin-showcase",
+  "version": 1,
+  "label": "Recorded replay - not live",
+  "recorded_at": "2026-11-05T08:42:10Z",
+  "duration_s": 29.97486783338536,
+  "frame_count": 360,
+  "source": {
+    "recording": "self_mask_parked",
+    "commit": "5d99e37",
+    "calibration": "none",
+    "lidar_height": "measured",
+    "hardware_verified": false,
+    "note": "recorded real sensor data processed offline by the AetherTwin pipeline"
+  },
+  "bootstrap": "bootstrap.json",
+  "assets_prefix": "assets/9b7ba2f6af958ec02e24aed4/",
+  "chunks": [
+    {
+      "file": "chunks/0000-04cc4a7f24.bin.gz",
+      "first_frame": 0,
+      "frames": 48,
+      "start_s": 0.0,
+      "end_s": 3.922896973625029,
+      "bytes": 2618820
+    },
+    {
+      "file": "chunks/0001-ea5f81bf6e.bin.gz",
+      "first_frame": 48,
+      "frames": 48,
+      "start_s": 4.006347245512188,
+      "end_s": 7.929756114968768,
+      "bytes": 2614902
+    },
+    {
+      "file": "chunks/0002-d52c7e4548.bin.gz",
+      "first_frame": 96,
+      "frames": 48,
+      "start_s": 8.013192637914472,
+      "end_s": 11.936580904239236,
+      "bytes": 2613066
+    },
+    {
+      "file": "chunks/0003-8185ede353.bin.gz",
+      "first_frame": 144,
+      "frames": 48,
+      "start_s": 12.020094424562558,
+      "end_s": 15.944088635569642,
+      "bytes": 2615261
+    },
+    {
+      "file": "chunks/0004-e497e0b4d9.bin.gz",
+      "first_frame": 192,
+      "frames": 48,
+      "start_s": 16.027185592505703,
+      "end_s": 19.955711305434306,
+      "bytes": 2614659
+    },
+    {
+      "file": "chunks/0005-19c7a7b992.bin.gz",
+      "first_frame": 240,
+      "frames": 48,
+      "start_s": 20.039239901734618,
+      "end_s": 23.963381451596433,
+      "bytes": 2611274
+    },
+    {
+      "file": "chunks/0006-85150187bc.bin.gz",
+      "first_frame": 288,
+      "frames": 48,
+      "start_s": 24.046341595493686,
+      "end_s": 27.97083465999185,
+      "bytes": 2612123
+    },
+    {
+      "file": "chunks/0007-992137668a.bin.gz",
+      "first_frame": 336,
+      "frames": 24,
+      "start_s": 28.054540991221984,
+      "end_s": 29.97486783338536,
+      "bytes": 1305052
+    }
+  ]
+}
